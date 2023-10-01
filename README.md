@@ -33,14 +33,14 @@
 
 <br><br>
 
-- :school: I graduated from `Bachelor of Information Technology` in Double Major of [Mobile and Web Application Development and Web Communication](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
+- :school: I graduated with `A Bachelor of Information Technology` with a Double Major in [Mobile and Web Application Development and Web Communication](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
 - :trophy: 1x `LeetCode` Challenge.
 - :technologist: ChatGPT is my favourite AI Tool for every solution `Problem`.
-- :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`, `Indeed`, `Foundit`.
-- :student: I’m currently learning `Advanced FullStack Java Devepment` and `BlockChain Technology`.
+- :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`, `Indeed`, and `Foundit`.
+- :student: I’m currently learning `Advanced FullStack Java Development` and `BlockChain Technology`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
+- :thinking: I'm actively seeking a new `job opportunity`, and here's [MY RESUME]().
+- :boom: Feel free to explore my website [MY WEBSITE]() for more information.
 <br>
 
 
