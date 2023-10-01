@@ -36,7 +36,7 @@
 - :school: I graduated from `Bachelor of Information Technology` in Double Major of [Mobile and Web Application Development and Web Communication](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
 - :trophy: 1x `LeetCode` Challenge.
 - :technologist: ChatGPT is my favourite AI Tool for every solution `Problem`.
-- :computer: I am also a Freelancer Developer at `UpWork`, `Atcoder`, `Leetcode`, `HackerRank`, `LinkedIn Contests`.
+- :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`, `Indeed`, `Foundit`.
 - :student: I’m currently learning `Advanced FullStack Java Devepment` and `BlockChain Technology`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
@@ -67,7 +67,7 @@
   &emsp;
   	<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a> 
   &emsp;
-  	<a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black"></a>
+  	<a href="https://www.python.org" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black"></a>
   &emsp;
   	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
@@ -157,7 +157,7 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/KelvinPhu">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
