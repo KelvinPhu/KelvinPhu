@@ -33,12 +33,12 @@
 
 <br><br>
 
-- :school: I graduated with `A Bachelor of Information Technology` with a Double Major in [Mobile and Web Application Development and Web Communication](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
-- :trophy: 1x `LeetCode` Challenge.
-- :technologist: ChatGPT is my favourite AI Tool for every solution `Problem`.
+- :school: I hold a `Bachelor of IT` in [Software Development](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
 - :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`, `Indeed`, and `Foundit`.
+- :trophy: Favorite platforms include `LeetCode` and `HackerRank`.
+- :technologist: ChatGPT is my favourite AI Tool for every `Problem solution`.
 - :student: I’m currently learning `Advanced FullStack Java Development` and `BlockChain Technology`.
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Always learning `new things`.
 - :thinking: I'm actively seeking a new `job opportunity`, and here's [MY RESUME]().
 - :boom: Feel free to explore my website [MY WEBSITE]() for more information.
 <br>
