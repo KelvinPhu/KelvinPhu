@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Huynh Thien Phu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;FullStack+Java+Developer;Competitive+Programmer;LeetCode+Master;HackerRank+Guru;Division+1+on+Codechef+(1+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;FullStack+Java;Web+Developer;Competitive+Programmer"></a>
 </p>
 
 <be>
@@ -34,7 +34,7 @@
 <br><br>
 
 - :school: I hold a `Bachelor of IT` in [Software Development](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
-- :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`, `Indeed`, and `Foundit`.
+- :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`.
 - :trophy: Favorite platforms include `LeetCode` and `HackerRank`.
 - :technologist: ChatGPT is my favourite AI Tool for every `Problem solution`.
 - :student: I’m currently learning `Advanced FullStack Java Development` and `BlockChain Technology`.
@@ -140,7 +140,7 @@
 
 <br><br>
 
-## 🛠️ Connect With Me
+## 🌐 Connect With Me
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -172,7 +172,8 @@
     <img width="30px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
   </kbd>
 
-## 🛠️ Reach Me
+
+## <img width="25px" alt="reach-icon" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/0e6df94c-e03e-42bb-ba70-13c1f46ab367" /> Reach Me
 
 <p style="display: inline-block;" align="center">
   <kbd>
