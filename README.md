@@ -29,7 +29,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
 <br><br>
 
@@ -112,9 +112,9 @@
     <kbd>IDEs & Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/KelvinPhu/icon/assets/102346766/05c14057-52f4-405e-9881-572692fe9765" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+    <img width="30px" alt="Eclipse" src="https://github.com/KelvinPhu/icon/assets/102346766/05c14057-52f4-405e-9881-572692fe9765" />
+    <img width="30px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" alt="atom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 
   </kbd>
 
@@ -122,9 +122,9 @@
     <kbd>Competitive Programming</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/KelvinPhu/icon/assets/102346766/edd0d0fc-680e-4b54-9990-efb3132be9cc" />
-    <img width="30px" src="https://github.com/KelvinPhu/icon/assets/102346766/ffd9d86d-61b9-4546-b88c-ef07c2088afb" />
-    <img width="30px" src="https://github.com/KelvinPhu/icon/assets/102346766/b279d714-8ac3-430c-bfbf-960a949dcab7" />
+    <img width="30px" alt="Leetcode" src="https://github.com/KelvinPhu/icon/assets/102346766/edd0d0fc-680e-4b54-9990-efb3132be9cc" />
+    <img width="30px" alt="HackerRank" src="https://github.com/KelvinPhu/icon/assets/102346766/ffd9d86d-61b9-4546-b88c-ef07c2088afb" />
+    <img width="30px" alt="CodeForces" src="https://github.com/KelvinPhu/icon/assets/102346766/b279d714-8ac3-430c-bfbf-960a949dcab7" />
 	  
   </kbd>
 
@@ -132,103 +132,59 @@
     <kbd>Operating System</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/KelvinPhu/icon/assets/102346766/a2a7b092-b355-4659-a507-b4d009931ae7" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
+    <img width="30px" alt="MacOS" src="https://github.com/KelvinPhu/icon/assets/102346766/a2a7b092-b355-4659-a507-b4d009931ae7" />
+    <img width="30px" alt="Window" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" />
+    <img width="30px" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
   </kbd>
 </p>
 
-<!--
+<br><br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+## 🛠️ Connect With Me
 
-<p align="center"> 
-	&emsp;
-		<a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
-	&emsp;
-  		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-	&emsp;
-		<a href="https://spring.io" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-	&emsp;
-		<a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white"></a>
-	&emsp;  
-</p>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Social Media</kbd>
+    <br>
+    <br>
+    <img width="30px" alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-plain.svg" />
+    <img width="30px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
+    <img width="30px" alt="instagram"src="https://github.com/KelvinPhu/icon/assets/102346766/abd60807-9b54-4b3e-b37b-60a0d86c8575" /> 
+    <img width="30px" alt="tiktok" src="https://github.com/KelvinPhu/icon/assets/102346766/b5ac7e04-10bf-4499-ad57-d509d3a29a1f" /> 
+  </kbd>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  	<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>   
-  &emsp;
-  	<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a> 
-  &emsp;
-  	<a href="https://www.python.org" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black"></a>
-  &emsp;
-  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-</p>
+  <kbd>
+    <kbd>Career Network</kbd>
+    <br>
+    <br>
+    <img width="30px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
+    <img width="30px" alt="upwork" src="https://github.com/KelvinPhu/icon/assets/102346766/12cf2d12-9996-4dc1-ab04-ba48d468bcc1" />
+  </kbd>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23A82400.svg?style=plastic&logo=quora&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=plastic&logo=reddit&logoColor=white"></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="mySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="#" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/oracle-%23F00000.svg?&style=plastic&logo=oracle&logoColor=white"/></a>
-</p>
+  <kbd>
+    <kbd>Tech Community</kbd>
+    <br>
+    <br>
+    <img width="30px" alt="GitHub" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
+    <img width="30px" alt="discord" src="https://github.com/KelvinPhu/icon/assets/102346766/f7e81130-06c1-4507-a472-4470c2ae319e" />
+    <img width="30px" alt="stackOverflow" src="https://github.com/KelvinPhu/icon/assets/102346766/6fd481bb-b2d3-466d-8870-0be8d94e683d" />
+    <img width="30px" alt="Quora" src="https://github.com/KelvinPhu/icon/assets/102346766/05ff57c6-c369-4129-b0fb-3a9fdddb1e90" />
+    <img width="30px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
+  </kbd>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%236DBE45.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-</p>
+## 🛠️ Reach Me
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/macOS-00D1FF?style=plastic&logo=apple&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0066E0?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-</p>
-
-<be> 
-
--->
-
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Communication</kbd>
+    <br>
+    <br>
+    <img width="30px" alt="whatSapp" src="https://github.com/KelvinPhu/icon/assets/102346766/73b1d0eb-a4d3-49aa-aced-acf45347fbfd" />
+    <img width="30px" alt="telegram" src="https://github.com/KelvinPhu/icon/assets/102346766/ba60cd7a-4938-495d-ba22-ff614bb2a74f" />
+    <img width="30px" alt="gmail" src="https://github.com/KelvinPhu/icon/assets/102346766/0de67174-56cc-413d-8e0a-8c862d78d6cd" /> 
+    <img width="30px" alt="outlock" src="https://github.com/KelvinPhu/icon/assets/102346766/491466e0-d405-4e65-9b38-a6ff8a21c2f4" /> 
+  </kbd>
+	
 ---
 
 <p align = "center">
