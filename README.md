@@ -40,7 +40,7 @@
 - :student: I’m currently learning `Advanced FullStack Java Development` and `BlockChain Technology`.
 - :nerd_face: Always learning `new things`.
 - :thinking: I'm actively seeking a new `job opportunity`, and here's [MY RESUME]().
-- :boom: Feel free to explore my website [MY WEBSITE]() for more information.
+- :boom: Feel free to explore [MY WEBSITE]() for more information.
 <br>
 
 
