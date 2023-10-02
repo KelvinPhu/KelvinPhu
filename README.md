@@ -41,8 +41,9 @@
 - :nerd_face: Always learning `new things`.
 - :thinking: I'm actively seeking a new `job opportunity`, and here's [MY RESUME]().
 - :boom: Feel free to explore [MY WEBSITE]() for more information.
-<br>
+<be>
 
+----
 
 ## 🛠️ My Skills
 
@@ -196,9 +197,11 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+<!--
 <summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+----
+-->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
