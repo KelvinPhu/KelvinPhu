@@ -55,7 +55,7 @@
     <img width="32px" alt="Quora" src="https://github.com/KelvinPhu/icon/assets/102346766/05ff57c6-c369-4129-b0fb-3a9fdddb1e90" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/your-profile-link" target="_blank">
+  <a href="https://www.reddit.com/user/huynhthienphu" target="_blank">
     <img width="32px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
   </a>
 </p>
