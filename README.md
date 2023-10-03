@@ -285,7 +285,7 @@
 
   <p>
     <a href="">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KelvinPhu's streak" src="https://streak-stats.demolab.com?user=KelvinPhu&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KelvinPhu's streak" src="https://streak-stats.demolab.com?user=KelvinPhu&theme=dark&hide_border=false)](https://git.io/streak-stats"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
