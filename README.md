@@ -81,9 +81,9 @@
 
 <!--Reach Me section-->
 <p align="center">
-  <a href="https://whatsapp.com"><img src="https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
-  <a href="https://telegram.org"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-  <a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+  <a href="https://wa.me/86542066"><img src="https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://t.me/Kelvinn_Huynh"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="phuhuynh197@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail" alt="Gmail"></a>
   <a href="https://outlook.com"><img src="https://img.shields.io/badge/Outlook-grey?style=for-the-badge&logo=microsoft-outlook" alt="Outlook"></a>
 </p>
 
