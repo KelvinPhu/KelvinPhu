@@ -172,7 +172,7 @@
 
 <!--Favourite tools section-->
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Skills & Tools</h2></summary>
 
   <p style="display: inline-block;" align="center">
@@ -278,7 +278,7 @@
 <!--Github Stats and Activity section-->
 
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
