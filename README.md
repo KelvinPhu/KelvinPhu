@@ -21,11 +21,11 @@
     <img width="32px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/your-profile-link" target="_blank">
+  <a href="#" target="_blank">
     <img width="32px" alt="instagram" src="https://github.com/KelvinPhu/icon/assets/102346766/abd60807-9b54-4b3e-b37b-60a0d86c8575" /> 
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.tiktok.com/your-profile-link" target="_blank">
+  <a href="#" target="_blank">
     <img width="32px" alt="tiktok" src="https://github.com/KelvinPhu/icon/assets/102346766/b5ac7e04-10bf-4499-ad57-d509d3a29a1f" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
