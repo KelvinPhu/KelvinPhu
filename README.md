@@ -51,7 +51,7 @@
     <img width="32px" alt="stackOverflow" src="https://github.com/KelvinPhu/icon/assets/102346766/6fd481bb-b2d3-466d-8870-0be8d94e683d" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.quora.com/your-profile-link" target="_blank">
+  <a href="https://www.quora.com/profile/Thien-Phu-Huynh" target="_blank">
     <img width="32px" alt="Quora" src="https://github.com/KelvinPhu/icon/assets/102346766/05ff57c6-c369-4129-b0fb-3a9fdddb1e90" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
