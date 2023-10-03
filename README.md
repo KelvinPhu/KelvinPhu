@@ -13,12 +13,12 @@
 
 <p align="center">
   <!-- Social Media -->
-  <a href="https://www.facebook.com/codemindvn/">
-    <img target="_blank" width="32px" alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-plain.svg" />
+  <a href="https://www.facebook.com/codemindvn/" target="_blank">
+    <img width="32px" alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-plain.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a>
-    <img href="https://www.youtube.com/codemindvn" target="_blank" width="32px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
+  <a href="https://www.youtube.com/codemindvn">
+    <img target="_blank" width="32px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" target="_blank">
