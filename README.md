@@ -84,8 +84,8 @@
 <p align="center">
   <a target="_blank" href="https://wa.me/86542066"><img src="https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
   <a target="_blank" href="https://t.me/Kelvinn_Huynh"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-  <a target="_blank" href="phuhuynh197@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail" alt="Gmail"></a>
-  <a target="_blank" href="z6551@365ms.vip"><img src="https://img.shields.io/badge/Outlook-grey?style=for-the-badge&logo=microsoft-outlook" alt="Outlook"></a>
+  <a target="_blank" href="mailto:phuhuynh197@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+  <a target="_blank" href="mailto:z6551@365ms.vip"><img src="https://img.shields.io/badge/Outlook-grey?style=for-the-badge&logo=microsoft-outlook" alt="Outlook"></a>
 </p>
 
 <!--- snake 
