@@ -30,7 +30,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Career Network -->
-  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+  <a href="www.linkedin.com/in/huynhthienphu662003" target="_blank">
     <img width="32px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
