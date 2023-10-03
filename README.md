@@ -47,7 +47,7 @@
     <img width="32px" alt="discord" src="https://github.com/KelvinPhu/icon/assets/102346766/f7e81130-06c1-4507-a472-4470c2ae319e" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/[your-profile-link](https://stackoverflow.com/users/18046391/kelvin-huynh)" target="_blank">
+  <a href="https://stackoverflow.com/users/18046391/kelvin-huynh)" target="_blank">
     <img width="32px" alt="stackOverflow" src="https://github.com/KelvinPhu/icon/assets/102346766/6fd481bb-b2d3-466d-8870-0be8d94e683d" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
