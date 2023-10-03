@@ -1,53 +1,181 @@
+<!--Name section-->
+
+
 <h1 align="center">Hi , I'm Huynh Thien Phu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;FullStack+Java;Web+Developer;Competitive+Programmer"></a>
 </p>
 
-<be>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<!--- snake -->
+<!--Media section-->
+
+
+<p align="center">
+  <!-- Social Media -->
+  <a href="https://www.facebook.com/your-profile-link" target="_blank">
+    <img width="32px" alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-plain.svg" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/your-profile-link" target="_blank">
+    <img width="32px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/your-profile-link" target="_blank">
+    <img width="32px" alt="instagram" src="https://github.com/KelvinPhu/icon/assets/102346766/abd60807-9b54-4b3e-b37b-60a0d86c8575" /> 
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.tiktok.com/your-profile-link" target="_blank">
+    <img width="32px" alt="tiktok" src="https://github.com/KelvinPhu/icon/assets/102346766/b5ac7e04-10bf-4499-ad57-d509d3a29a1f" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Career Network -->
+  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+    <img width="32px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.upwork.com/your-profile-link" target="_blank">
+    <img width="32px" alt="upwork" src="https://github.com/KelvinPhu/icon/assets/102346766/12cf2d12-9996-4dc1-ab04-ba48d468bcc1" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Tech Community -->
+  <a href="https://github.com/your-profile-link" target="_blank">
+    <img width="32px" alt="GitHub" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/your-profile-link" target="_blank">
+    <img width="32px" alt="discord" src="https://github.com/KelvinPhu/icon/assets/102346766/f7e81130-06c1-4507-a472-4470c2ae319e" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://stackoverflow.com/your-profile-link" target="_blank">
+    <img width="32px" alt="stackOverflow" src="https://github.com/KelvinPhu/icon/assets/102346766/6fd481bb-b2d3-466d-8870-0be8d94e683d" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.quora.com/your-profile-link" target="_blank">
+    <img width="32px" alt="Quora" src="https://github.com/KelvinPhu/icon/assets/102346766/05ff57c6-c369-4129-b0fb-3a9fdddb1e90" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.reddit.com/user/your-profile-link" target="_blank">
+    <img width="32px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
+  </a>
+</p>
+
+<br/>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<!--Introduction section-->
+
+
+<img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"/>
+
+- 🏫 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚊𝚜 **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** at [ Murdoch University Austrailia](https://www.murdoch.edu.au/).
+- 💻 𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔 𝙹𝚊𝚟𝚊 𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛 𝚊𝚝 `UpWork`, `LinkedIn Contests`.
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙹𝚊𝚟𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝** 𝚘𝚛 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- 🧑‍💻 𝙸'𝚖 𝚊𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚗𝚎𝚠 𝚓𝚘𝚋 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢, 𝚊𝚗𝚍 𝚑𝚎𝚛𝚎'𝚜 [MY RESUME]()
+- 💥 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 [MY WEBSITE]() 𝚏𝚘𝚛 𝚖𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
+- ⚡  𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.*** 
+
+<br/><br/>
+
+<!--Reach Me section-->
+<p align="center">
+  <a href="https://whatsapp.com"><img src="https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://telegram.org"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+  <a href="https://outlook.com"><img src="https://img.shields.io/badge/Outlook-grey?style=for-the-badge&logo=microsoft-outlook" alt="Outlook"></a>
+</p>
+
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
-<br>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/>
-	</a>
+<!--Repository section-->
 
-</p>
 
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
+    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<!-------------------------------------------------------------->
+
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+  <p align="left">
+    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
+    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
+    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
+    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
+    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
+    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
+  </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+  <p align="left">
+    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+</details>
 
-<br><br>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-- :school: I hold a `Bachelor of IT` in [Software Development](https://www.murdoch.edu.au/course/honours/bh-mwad) at [Murdoch University Australia](https://www.murdoch.edu.au/).
-- :computer: I am also a Freelancer Developer at `UpWork`, `LinkedIn Contests`.
-- :trophy: Favorite platforms include `LeetCode` and `HackerRank`.
-- :technologist: ChatGPT is my favourite AI Tool for every `Problem solution`.
-- :student: I’m currently learning `Advanced FullStack Java Development` and `BlockChain Technology`.
-- :nerd_face: Always learning `new things`.
-- :thinking: I'm actively seeking a new `job opportunity`, and here's [MY RESUME]().
-- :boom: Feel free to explore [MY WEBSITE]() for more information.
-<be>
+<!--Youtube video section-->
 
-----
+<!--
+<details> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  
+  <!-- prettier-ignore-start -->
+  <!-- BEGIN YOUTUBE-CARDS -->
+  
+  <!--
+<a href="https://www.youtube.com/watch?v=maoXtlb8t44"><img src="https://ytcards.demolab.com/?id=maoXtlb8t44&title=How+To+Self-Host+GitHub+Readme+Streak+Stats+on+Vercel&lang=en&timestamp=1693523015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title="How To Self-Host GitHub Readme Streak Stats on Vercel"></a>
+<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
+<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
+<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
+<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
+<a href="https://www.youtube.com/watch?v=xsA5QAkr-04"><img src="https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1188" alt="Custom Help Commands [#2] Select Menus - Python Discord Bot" title="Custom Help Commands [#2] Select Menus - Python Discord Bot"></a>
+  <!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
 
-## 🛠️ My Skills
+<!--
+<p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
+  
+<a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  
+</details>
 
-<p style="display: inline-block;" align="center">
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+
+<!--Favourite tools section-->
+
+<details> 
+  <summary><h2>🛠️ My Favorite Skills & Tools</h2></summary>
+
+  <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -129,7 +257,7 @@
 	  
   </kbd>
 
-   <kbd>
+  <kbd>
     <kbd>Operating System</kbd>
     <br>
     <br>
@@ -137,181 +265,53 @@
     <img width="30px" alt="Window" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" />
     <img width="30px" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
   </kbd>
-</p>
+  </p>
 
-<br><br>
-
-## 🌐 Connect With Me
-
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Social Media</kbd>
-    <br>
-    <br>
-    <img width="30px" alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-plain.svg" />
-    <img width="30px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
-    <img width="30px" alt="instagram"src="https://github.com/KelvinPhu/icon/assets/102346766/abd60807-9b54-4b3e-b37b-60a0d86c8575" /> 
-    <img width="30px" alt="tiktok" src="https://github.com/KelvinPhu/icon/assets/102346766/b5ac7e04-10bf-4499-ad57-d509d3a29a1f" /> 
-  </kbd>
-
-  <kbd>
-    <kbd>Career Network</kbd>
-    <br>
-    <br>
-    <img width="30px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
-    <img width="30px" alt="upwork" src="https://github.com/KelvinPhu/icon/assets/102346766/12cf2d12-9996-4dc1-ab04-ba48d468bcc1" />
-  </kbd>
-
-  <kbd>
-    <kbd>Tech Community</kbd>
-    <br>
-    <br>
-    <img width="30px" alt="GitHub" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
-    <img width="30px" alt="discord" src="https://github.com/KelvinPhu/icon/assets/102346766/f7e81130-06c1-4507-a472-4470c2ae319e" />
-    <img width="30px" alt="stackOverflow" src="https://github.com/KelvinPhu/icon/assets/102346766/6fd481bb-b2d3-466d-8870-0be8d94e683d" />
-    <img width="30px" alt="Quora" src="https://github.com/KelvinPhu/icon/assets/102346766/05ff57c6-c369-4129-b0fb-3a9fdddb1e90" />
-    <img width="30px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
-  </kbd>
-
-
-## <img width="25px" alt="reach-icon" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/0e6df94c-e03e-42bb-ba70-13c1f46ab367" /> Reach Me
-
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Communication</kbd>
-    <br>
-    <br>
-    <img width="30px" alt="whatSapp" src="https://github.com/KelvinPhu/icon/assets/102346766/73b1d0eb-a4d3-49aa-aced-acf45347fbfd" />
-    <img width="30px" alt="telegram" src="https://github.com/KelvinPhu/icon/assets/102346766/ba60cd7a-4938-495d-ba22-ff614bb2a74f" />
-    <img width="30px" alt="gmail" src="https://github.com/KelvinPhu/icon/assets/102346766/0de67174-56cc-413d-8e0a-8c862d78d6cd" /> 
-    <img width="30px" alt="outlock" src="https://github.com/KelvinPhu/icon/assets/102346766/491466e0-d405-4e65-9b38-a6ff8a21c2f4" /> 
-  </kbd>
-	
----
-
-<!--
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
--->
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<!--
-<summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
--->
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-
+  <br><br>
   
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
+</details>
 
-----
-	
-<p align="center">
-    <a href="https://github.com/KelvinPhu">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+
+<!--Github Stats and Activity section-->
+
+
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KelvinPhu's streak" src="https://streak-stats.demolab.com?user=KelvinPhu&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KelvinPhu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KelvinPhu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KelvinPhu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-
-<!--<summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
-
--->
-
-
-<summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
-
-	
-<summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KelvinPhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
 
 </br></br>
 
-#
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+
+<!--Footer Section-->
+
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
 
