@@ -34,16 +34,16 @@
     <img width="32px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.upwork.com/your-profile-link" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~017bd8654c63d97212" target="_blank">
     <img width="32px" alt="upwork" src="https://github.com/KelvinPhu/icon/assets/102346766/12cf2d12-9996-4dc1-ab04-ba48d468bcc1" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Tech Community -->
-  <a href="https://github.com/your-profile-link" target="_blank">
+  <a href="https://github.com/KelvinPhu" target="_blank">
     <img width="32px" alt="GitHub" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/your-profile-link" target="_blank">
+  <a href="https://discord.gg/nZFUpXwThB" target="_blank">
     <img width="32px" alt="discord" src="https://github.com/KelvinPhu/icon/assets/102346766/f7e81130-06c1-4507-a472-4470c2ae319e" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
