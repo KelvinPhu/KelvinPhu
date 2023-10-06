@@ -88,11 +88,11 @@
   <a target="_blank" href="mailto:z6551@365ms.vip"><img src="https://img.shields.io/badge/Outlook-grey?style=for-the-badge&logo=microsoft-outlook" alt="Outlook"></a>
 </p>
 
-<!--- snake 
+<!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div> -->
+</div> 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
