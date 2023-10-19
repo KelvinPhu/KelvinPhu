@@ -10,7 +10,6 @@
 
 <!--Media section-->
 
-
 <p align="center">
   <!-- Social Media -->
   <a href="https://www.facebook.com/codemindvn/" target="_blank">
@@ -59,7 +58,6 @@
     <img width="32px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
   </a>
 </p>
-
 
 <br/>
 
