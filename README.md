@@ -315,7 +315,7 @@
 <!--Footer Section-->
 
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](https://github.com/KelvinPhu/icon/blob/main/footer)
 
 -----
 **Credits**: [Kelvin Huynh](https://github.com/KelvinPhu)
