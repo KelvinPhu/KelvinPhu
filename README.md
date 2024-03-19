@@ -88,7 +88,7 @@
 </p>
 
 <!--- snake -->
-![github-contribution-grid-snake2](https://github.com/KelvinPhu/icon/assets/102346766/24d2f17a-599e-46e4-9e8b-fe7772796bf9)<details> 
+<!-- ![github-contribution-grid-snake2](https://github.com/KelvinPhu/icon/assets/102346766/24d2f17a-599e-46e4-9e8b-fe7772796bf9)<details> -->
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
