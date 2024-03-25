@@ -207,7 +207,7 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" alt="MySQL" src="https://github.com/KelvinPhu/icon/assets/102346766/eafba208-2b4d-46ce-81a9-309cc737b57f" />
     <img width="30px" alt="oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img width="30px" alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </kbd>
