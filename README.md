@@ -69,12 +69,12 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"/>
 
-- 🏫 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚊𝚜 **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** at [ Murdoch University Austrailia](https://www.murdoch.edu.au/).
+- 🏫 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚊𝚜 **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** at [ Murdoch University Austrailia](https://drive.google.com/file/d/1ctKYuFCaDcV0ZYwQXqIsiCPXpvJr6W1Y/view?usp=sharing).
 - 💻 𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔 𝙹𝚊𝚟𝚊 𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛 𝚊𝚝 `UpWork`, `LinkedIn Contests`.
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙹𝚊𝚟𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝** 𝚘𝚛 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- 🧑‍💻 𝙸'𝚖 𝚊𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚗𝚎𝚠 𝚓𝚘𝚋 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢, 𝚊𝚗𝚍 𝚑𝚎𝚛𝚎'𝚜 [MY RESUME]()
-- 💥 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 [MY WEBSITE]() 𝚏𝚘𝚛 𝚖𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
+- 🧑‍💻 𝙸'𝚖 𝚊𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚗𝚎𝚠 𝚓𝚘𝚋 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢, 𝚊𝚗𝚍 𝚑𝚎𝚛𝚎'𝚜 [MY RESUME](https://drive.google.com/file/d/1RafO6lK4C4YRdzplQccLMo0Jr_YEptCK/view?usp=sharing)
+- 💥 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 [MY WEBSITE](https://huynhthienphu-portfolio.netlify.app/) 𝚏𝚘𝚛 𝚖𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
 - ⚡  𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.*** 
 
 <br/><br/>
