@@ -14,49 +14,49 @@
 <p align="center">
   <!-- Social Media -->
   <a href="https://www.facebook.com/codemindvn/" target="_blank">
-    <img width="32px" alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-plain.svg" />
+    <img width="32px" alt="facebook" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/bce65a90-a7cd-460b-a04c-d993054a5956" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/codemindvn">
-    <img target="_blank" width="32px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
+  <a href="https://www.youtube.com/channel/UCua8SKTrzYijNHusu4Z-DIQ">
+    <img target="_blank" width="32px" alt="youtube" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/27a01b3a-5e26-4a29-8099-62c1316b61f5" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" target="_blank">
-    <img width="32px" alt="instagram" src="https://github.com/KelvinPhu/icon/assets/102346766/abd60807-9b54-4b3e-b37b-60a0d86c8575" /> 
+  <a href="https://www.instagram.com/kelvin.huynhh/" target="_blank">
+    <img width="32px" alt="instagram" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/366cf80c-2764-4c0c-a736-d0f9d3620136" /> 
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" target="_blank">
-    <img width="32px" alt="tiktok" src="https://github.com/KelvinPhu/icon/assets/102346766/b5ac7e04-10bf-4499-ad57-d509d3a29a1f" />
+  <a href="https://www.tiktok.com/@kelvin_huynhh" target="_blank">
+    <img width="32px" alt="tiktok" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/1674480d-fcf5-48f1-9113-e4fa78250ad1" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Career Network -->
-  <a href="www.linkedin.com/in/huynhthienphu662003" target="_blank">
-    <img width="32px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/huynhthienphu662003/" target="_blank">
+    <img width="32px" alt="linkedIn" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/3aafbb3c-edb0-459d-bff1-c4c4f7f01c7f" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.upwork.com/freelancers/~017bd8654c63d97212" target="_blank">
-    <img width="32px" alt="upwork" src="https://github.com/KelvinPhu/icon/assets/102346766/12cf2d12-9996-4dc1-ab04-ba48d468bcc1" />
+    <img width="32px" alt="upwork" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/bea6c73f-c59a-4144-b4fc-c1435f0d83d4" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Tech Community -->
   <a href="https://github.com/KelvinPhu" target="_blank">
-    <img width="32px" alt="GitHub" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
+    <img width="32px" alt="GitHub" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/96353283-92ee-4bbd-b5a4-9efca7dd78de" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/nZFUpXwThB" target="_blank">
-    <img width="32px" alt="discord" src="https://github.com/KelvinPhu/icon/assets/102346766/f7e81130-06c1-4507-a472-4470c2ae319e" />
+  <a href="https://discord.gg/GzfFhuahMy" target="_blank">
+    <img width="32px" alt="discord" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/819a2395-4342-42ae-9511-7062fba1e3ad" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/users/18046391/kelvin-huynh)" target="_blank">
-    <img width="32px" alt="stackOverflow" src="https://github.com/KelvinPhu/icon/assets/102346766/6fd481bb-b2d3-466d-8870-0be8d94e683d" />
+  <a href="https://stackoverflow.com/users/18046391/kelvin-huynh" target="_blank">
+    <img width="32px" alt="stackOverflow" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/6d2fa46a-209f-49d8-a3ed-ea47985fc040" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.quora.com/profile/Thien-Phu-Huynh" target="_blank">
-    <img width="32px" alt="Quora" src="https://github.com/KelvinPhu/icon/assets/102346766/05ff57c6-c369-4129-b0fb-3a9fdddb1e90" />
+    <img width="32px" alt="Quora" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/45ddca2c-3be7-45ca-bd9e-37adea4c3aae" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/huynhthienphu" target="_blank">
-    <img width="32px" alt="Reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
+  <a href="https://www.reddit.com/user/kelvin_Huynh/" target="_blank">
+    <img width="32px" alt="Reddit" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/ac2903e8-2e31-4689-8b38-9a68f053bc01" />
   </a>
 </p>
 
@@ -137,36 +137,6 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<!--Youtube video section-->
-
-<!--
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-  
-  <!-- prettier-ignore-start -->
-  <!-- BEGIN YOUTUBE-CARDS -->
-  
-  <!--
-<a href="https://www.youtube.com/watch?v=maoXtlb8t44"><img src="https://ytcards.demolab.com/?id=maoXtlb8t44&title=How+To+Self-Host+GitHub+Readme+Streak+Stats+on+Vercel&lang=en&timestamp=1693523015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title="How To Self-Host GitHub Readme Streak Stats on Vercel"></a>
-<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
-<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
-<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
-<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
-<a href="https://www.youtube.com/watch?v=xsA5QAkr-04"><img src="https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1188" alt="Custom Help Commands [#2] Select Menus - Python Discord Bot" title="Custom Help Commands [#2] Select Menus - Python Discord Bot"></a>
-  <!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
-
-<!--
-<p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
-  
-<a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
-</details>
-
-
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
-
-
 <!--Favourite tools section-->
 
 <details open> 
@@ -177,39 +147,38 @@
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" />
-    <img width="30px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" alt="java" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/dc46dab4-13e0-4faa-9195-edfae57be158" />
+    <img width="30px" alt="javascript" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/a537dc2c-2b5e-4444-9a58-601af40c2e16" />
+    <img width="30px" alt="Solidity" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/4e967ee9-b0b2-4a54-8a97-57bf6982a33d" /> 
+    <img width="30px" alt="vyper" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/eddaba80-b8e9-4914-b944-070fe5abc7a4" /> 
   </kbd>
 
   <kbd>
     <kbd>Front-End Languages</kbd>
     <br>
     <br>
-    <img width="30px" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    <img width="30px" alt="sass/scss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img width="30px" alt="reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+    <img width="30px" alt="reactjs" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/7eef9b78-3e69-43ba-8d6b-a486652bb161" />
+    <img width="30px" alt="bootstrap" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/8bf94c25-7635-468c-8735-238eaa427dd9" />
+    <img width="30px" alt="sass/scss" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/18d78c38-7c98-42fd-9100-b91a280959d1" />
   </kbd>
 
   <kbd>
     <kbd>Back-End Languages</kbd>
     <br>
     <br>
-    <img width="30px" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img width="30px" alt="JDBC" src="https://github.com/KelvinPhu/icon/assets/102346766/655906b4-2a8d-4fe1-878f-1e36dfb56d07" />
-    <img width="30px" alt="hibernate" src="https://github.com/KelvinPhu/icon/assets/102346766/f444cbe5-f84b-4bad-8466-5c1180b269d5" />
-    <img width="30px" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" alt="spring" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/2b716aea-eb15-46fe-bd6f-648183b53bc2" />
+    <img width="30px" alt="JDBC" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/ad88d0cf-fdf7-49f0-94b7-afa7c072afb8" />
+    <img width="30px" alt="hibernate" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/87a6bce6-096f-4488-a3b4-ef9eeddb5589" />
+    <img width="30px" alt="nodejs" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/4af86f94-cc6a-482f-a2b2-7e8c15dfed99" />
   </kbd>
 
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" alt="MySQL" src="https://github.com/KelvinPhu/icon/assets/102346766/eafba208-2b4d-46ce-81a9-309cc737b57f" />
-    <img width="30px" alt="oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-    <img width="30px" alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img width="30px" alt="MySQL" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/d88596d4-0fab-406e-8563-1ea4b58b129a" />
+    <img width="30px" alt="oracle" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/20ee679a-6924-4538-83b0-c182572e842d" />
+    <img width="30px" alt="mongoDB" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/1799ca9c-dd1d-4038-8036-9ef892311633" />
   </kbd>
 
   <br>
@@ -219,47 +188,46 @@
     <kbd>Cloud Hosting</kbd>
     <br>
     <br>
-    <img width="30px" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img width="30px" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+    <img width="30px" alt="firebase" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/c238c41e-5713-4f87-8152-96a7763a2e3c" />
+    <img width="30px" alt="heroku" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/c6d1192e-8f42-4fc6-ab8c-9d270cc58051" />
   </kbd>
  
   <kbd>
     <kbd>Version Control & CI/CD</kbd>
     <br>
     <br>
-    <img width="30px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" alt="GitHub" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
-    <img width="30px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" />
-    <img width="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    <img width="30px" alt="Git" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/4bafc88a-b0e5-4ba3-bd16-5435b57122c3" />
+    <img width="30px" alt="GitHub" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/96353283-92ee-4bbd-b5a4-9efca7dd78de" />
+    <img width="30px" alt="GitLab" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/408003eb-8f57-4761-8f57-01030e606258" />
+    <img width="30px" alt="Docker" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/766ae210-a6f4-450d-9f43-06f6c3cc8560" />
   </kbd>
 
   <kbd>
     <kbd>IDEs & Tools</kbd>
     <br>
     <br>
-    <img width="30px" alt="Eclipse" src="https://github.com/KelvinPhu/icon/assets/102346766/05c14057-52f4-405e-9881-572692fe9765" />
-    <img width="30px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" alt="atom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+    <img width="30px" alt="Eclipse" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/153b03a0-9e91-416e-a5d0-f8e09a8612fc" />
+    <img width="30px" alt="vscode" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/adfe36d2-c555-4f3d-bdf2-9a92a8e4ece9" />
+    <img width="30px" alt="intellij" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/20711074-d7bd-43e0-b949-b441118cc76d" />
 
   </kbd>
 
   <kbd>
-    <kbd>Competitive Programming</kbd>
+    <kbd>Challenge</kbd>
     <br>
     <br>
-    <img width="30px" alt="Leetcode" src="https://github.com/KelvinPhu/icon/assets/102346766/edd0d0fc-680e-4b54-9990-efb3132be9cc" />
-    <img width="30px" alt="HackerRank" src="https://github.com/KelvinPhu/icon/assets/102346766/ffd9d86d-61b9-4546-b88c-ef07c2088afb" />
-    <img width="30px" alt="CodeForces" src="https://github.com/KelvinPhu/icon/assets/102346766/b279d714-8ac3-430c-bfbf-960a949dcab7" />
-	  
+    <img width="30px" alt="Leetcode" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/30a1897d-b873-4675-b720-c0e1e3f52ce6" />
+    <img width="30px" alt="HackerRank" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/802158af-c7e6-4968-a01e-f534c31d1406" />
+
   </kbd>
 
   <kbd>
     <kbd>Operating System</kbd>
     <br>
     <br>
-    <img width="30px" alt="MacOS" src="https://github.com/KelvinPhu/icon/assets/102346766/a2a7b092-b355-4659-a507-b4d009931ae7" />
-    <img width="30px" alt="Window" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" />
-    <img width="30px" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
+    <img width="30px" alt="MacOS" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/245c8dcd-044e-44f1-b429-c2d6a9a2e928" />
+    <img width="30px" alt="Window" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/0b2d369d-563b-4ae2-ac38-847c0dc504e9" />
+    <img width="30px" alt="Linux" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/2e430515-d95e-4deb-bb75-27f6a0545916" />
   </kbd>
   </p>
 
@@ -312,9 +280,10 @@
 <!--Footer Section-->
 
 
-![footer](https://github.com/KelvinPhu/icon/blob/main/footer)
+<img width="1000" alt="footer" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/d6638a4f-0243-49e2-bf51-e9f4e59e37f0">
+
 
 -----
 **Credits**: [Kelvin Huynh](https://github.com/KelvinPhu)
 
-**Last Edited on**: 28/09/2023
+**Last Edited on**: 20/04/2024
