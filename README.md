@@ -95,6 +95,8 @@
 <!--Repository section-->
 
 
+<!--
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -113,8 +115,11 @@
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+-->
+
 <!-------------------------------------------------------------->
 
+<!-- 
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 	
@@ -134,6 +139,8 @@
     <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
+
+-->
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
@@ -240,13 +247,17 @@
 
 
 <!--Github Stats and Activity section-->
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- soursing: https://github.com/anuraghazra/github-readme-stats -->
 
+
+<!--
 
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   ### 🔥 Streak Stats
- <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+ 
   <p>
     <a href="">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KelvinPhu's streak" src="https://streak-stats.demolab.com/?user=KelvinPhu&theme=vision-friendly-dark&hide_border=true"/>
@@ -255,9 +266,9 @@
 
   ### 💻 GitHub Profile Stats
 
-  <!-- soursing: https://github.com/anuraghazra/github-readme-stats -->
-
   <a href="https://github.com/KelvinPhu"><img alt="KelvinPhu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KelvinPhu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+-->
 
   ### 💻 GitHub Top Languages
   
