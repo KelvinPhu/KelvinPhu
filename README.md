@@ -1,9 +1,11 @@
 <!--Name section-->
 
+<!--
 
-<h1 align="center">Hi , I'm Huynh Thien Phu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1  align="center">Hi , I'm Huynh Thien Phu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <!--https://github.com/DenverCoder1/readme-typing-svg-->
+<!--
   <a href="https://github.com/KelvinPhu"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;FullStack+Java;Web+Developer;Competitive+Programmer"></a>
 </p>
 
@@ -11,8 +13,11 @@
 
 <!--Media section-->
 
+<!--
 <p align="center">
   <!-- Social Media -->
+
+  <!--
   <a href="https://www.facebook.com/codemindvn/" target="_blank">
     <img width="32px" alt="facebook" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/bce65a90-a7cd-460b-a04c-d993054a5956" />
   </a>
@@ -30,6 +35,8 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Career Network -->
+
+  <!--
   <a href="https://www.linkedin.com/in/huynhthienphu662003/" target="_blank">
     <img width="32px" alt="linkedIn" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/3aafbb3c-edb0-459d-bff1-c4c4f7f01c7f" />
   </a>
@@ -39,6 +46,8 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Tech Community -->
+
+  <!--
   <a href="https://github.com/KelvinPhu" target="_blank">
     <img width="32px" alt="GitHub" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/96353283-92ee-4bbd-b5a4-9efca7dd78de" />
   </a>
@@ -67,6 +76,7 @@
 <!--Introduction section-->
 
 
+<!--
 <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"/>
 
 - 🏫 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚊𝚜 **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** at [ Murdoch University Austrailia](https://drive.google.com/file/d/1ctKYuFCaDcV0ZYwQXqIsiCPXpvJr6W1Y/view?usp=sharing).
@@ -80,6 +90,10 @@
 <br/><br/>
 
 <!--Reach Me section-->
+
+
+
+<!--
 <p align="center">
   <a target="_blank" href="https://wa.me/86542066"><img src="https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
   <a target="_blank" href="https://t.me/Kelvinn_Huynh"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"></a>
@@ -146,6 +160,9 @@
 
 <!--Favourite tools section-->
 
+
+
+<!--
 <details open> 
   <summary><h2>🛠️ My Favorite Skills & Tools</h2></summary>
 
@@ -270,6 +287,8 @@
 
 -->
 
+
+<!--
   ### 💻 GitHub Top Languages
   
   <a href="https://github.com/KelvinPhu"><img alt="KelvinPhu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KelvinPhu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
@@ -277,7 +296,9 @@
   <br/>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  
+
+
+  <!--
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KelvinPhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 </details>
@@ -289,7 +310,7 @@
 
 <!--Footer Section-->
 
-
+<!--
 <img width="1000" alt="footer" src="https://github.com/KelvinPhu/KelvinPhu/assets/102346766/d6638a4f-0243-49e2-bf51-e9f4e59e37f0">
 
 
